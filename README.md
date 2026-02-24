@@ -30,7 +30,7 @@ _AC-analyysin tulos ngspicestä. Punainen käyrä on tulosignaali ja sininen lä
 
 ![DRC – puhdas tulos](images/DRC.png)
 
-_Design Rule Check meni läpi puhtaasti – ei virheitä eikä varoituksia. Levy on valmis valmistettavaksi._
+_Design Rule Check läpi ilman virheitä tai varoituksia._
 
 ## Komponentit
 
@@ -52,7 +52,7 @@ f_c ≈ 1.03 kHz
 
 ## Simuloinnin vianmääritys
 
-Simuloinnin kanssa tuli vastaan useampi ongelma ennen kuin homma alkoi pelittää. Tässä dokumentoituna mitä meni pieleen ja miten asiat korjattiin – ehkä joku muu säästyy samoilta sudenkuopilta.
+Simuloinnin kanssa tuli vastaan useampi ongelma ennen kuin homma alkoi pelittää. Tässä dokumentoituna mitä meni pieleen ja miten asiat korjattiin.
 
 ### 1. TL072:n SPICE-malli ei toiminut ngspicellä
 
