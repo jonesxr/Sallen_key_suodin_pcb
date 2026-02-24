@@ -1,6 +1,6 @@
-# Aktiivinen Sallen-Key Alipäästösuodin
+# Aktiivinen Sallen-Key Alipäästösuodatin
 
-Projektissa toteutettiin 2. asteen aktiivinen Sallen-Key alipäästösuodin. Projekti sisältää sähkökaavion, piirilevyn layoutin sekä toimivan SPICE-simuloinnin ngspicellä.
+Projektissa toteutettiin 2. asteen aktiivisen Sallen-Key alipäästösuodin. Projekti sisältää sähkökaavion, piirilevyn layoutin sekä toimivan SPICE-simuloinnin ngspicellä.
 
 ## Sähkökaavio
 
