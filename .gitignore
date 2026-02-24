@@ -1,0 +1,22 @@
+# KiCad autosave and backup files
+_autosave-*
+*-backups/
+*.lck
+#auto_saved_files#
+*.wbk
+
+# KiCad cache files
+fp-info-cache
+
+# KiCad local settings (user-specific)
+*.kicad_prl
+
+# DRC report
+DRC.rpt
+
+# Root-level image copies (originals in images/)
+/skema.png
+/pcb.png
+/3d.png
+/taajuusvaste.png
+/DRC.png
